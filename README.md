@@ -5,6 +5,7 @@ Este repositorio integra la propuesta de Xeis Studio (Pix-T Art S.A. de C.V.) pa
 Nuestra solución consta de un videojuego, con el objeto de que los niños a través de una mascota virtual entiendan los beneficios de una buena alimentación y la implementación de buenos hábitos como hacer ejercicio y tomar agua. Se desarrollo para UNITY y esta versión esta optimizada para dispositivos Android.
 
 Las opciones del juego implementadas para el demo son:
+
 1. Configuración de mascota, la cual puede llevar el nombre, edad, sexo, estatura y peso del niño.
 2. Aparece el Tragón en escena principal:
 	a. El tiempo del día comienza a transcurrir, en la parte superior izquierda existen unas esferas que indican cada tiempo de comida (Desayuno, Lunch, Comida, Snack y Cena) y entre cada comida existe un espacio de tiempo para actividades que podrá realizar el Thragon, el objetivo es incluir actividades que comúnmente hace un niño, como: jugar pelota, ayudar en casa, jugar videojuegos,  escalar, etc. Para efectos del demo se implemento la actividad de correr.
@@ -23,7 +24,8 @@ Las opciones del juego implementadas para el demo son:
 7. Después de 3 días de actividad (para la versión final manejaremos ciclos de 7 días - una semana-) se mostrara un resumen con: el peso obtenido, peso ideal y calorías recomendadas para llevar al Thragon a su peso ideal. Esto sucede en la isla donde esta el árbol, este personaje será como un medico o nutriologo. Para la versión final del juego hará recomendaciones y asignara retos para cumplir en el juego. En la versión final del juego la aplicación diagnosticara que tipo de vida lleva el Thragón (Activa, poco activa, etc).
 
 
-NOTAS: 
+NOTAS:
+
 1. La lista de alimentos es muy limitada para efectos del demo, pero se extenderá para abarcar los alimentos que comúnmente comen los niños mexicanos.
 2. Se tienen planeado diseñar 10 personajes diferentes con su versión femenina. Y 5 escenarios diferentes.
 3. Crear escenarios interactivos donde los jugadores podrán extender su diversión. Ejemplo de ellos sería: Espantar murciélagos, incendiar matorrales, echarse un clavado en la lava, etc.
