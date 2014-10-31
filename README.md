@@ -5,7 +5,7 @@ Este repositorio integra la propuesta de Xeis Studio (Pix-T Art S.A. de C.V.) pa
 Nuestra solución consta de un videojuego, con el objeto de que los niños a través de una mascota virtual entiendan los beneficios de una buena alimentación y la implementación de buenos hábitos como hacer ejercicio y tomar agua. Se desarrollo para UNITY y esta versión esta optimizada para dispositivos Android.
 
 Las opciones del juego implementadas para el demo son:
-<p>1. Configuración de mascota, la cual puede llevar el nombre, edad, sexo, estatura y peso del niño.</p>
+1. Configuración de mascota, la cual puede llevar el nombre, edad, sexo, estatura y peso del niño.
 2. Aparece el Tragón en escena principal:
 	a. El tiempo del día comienza a transcurrir, en la parte superior izquierda existen unas esferas que indican cada tiempo de comida (Desayuno, Lunch, Comida, Snack y Cena) y entre cada comida existe un espacio de tiempo para actividades que podrá realizar el Thragon, el objetivo es incluir actividades que comúnmente hace un niño, como: jugar pelota, ayudar en casa, jugar videojuegos,  escalar, etc. Para efectos del demo se implemento la actividad de correr.
 	b. En la parte inferior derecha están un par de esferas, una indica la cantidad de calorías consumidas por el Thragon y la otra las gastadas por las diferentes actividades.
