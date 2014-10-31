@@ -1,0 +1,15 @@
+Pasos para generar APK del proyecto Tragon.
+
+0. Descargar unity Beta 4.6 https://unity3d.com/es/unity/beta/4.6
+1. Abrir Unity.
+2. Dar click en File-Open Project y seleccionar la carpeta tragonProject.
+3. Luego en el menu File dar click en build settings.
+4. En la ventana nueva, seleccionar la plataforma android y dar click en switch platform.
+5. Esperar a que cargue los assets para la plataforma y dar click en build.
+6. seleccionar donde se quiere guardar el APk y seleccionar un nombre.
+7. Esperar a que termine el proceso y abrir la carpeta destino.
+8. En seguida conectar con usb el cable del teléfono a instalar.
+9. El teléfono debe de tener habilitado el modo desarrollo.
+10. Posteriormente se arrasta el APK a una carpeta del dispositivo.
+11. Ya en el teléfono se busca el directorio donde se guardo y se instala.
+12. Buscar la app instalada y Ejecutar normalmente.
