@@ -1,0 +1,51 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-1--1585315416
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=447 outsize=447 ok=1
+Cmd: preprocess
+  insize=1048 outsize=887 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4871 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4871 outsize=445 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2847 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2847 outsize=666 kw=POINT ok=1
+Cmd: preprocess
+  insize=22217 outsize=4216 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=17343 outsize=2557 kw=WATER_DISPLACEMENT_ON EDGEBLEND_ON REFRACTION_MASK_ON RT_REFLECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=17343 outsize=2003 kw=WATER_DISPLACEMENT_ON EDGEBLEND_ON REFRACTION_MASK_ON RT_REFLECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=17353 outsize=2557 kw=WATER_DISPLACEMENT_ON EDGEBLEND_ON REFRACTION_MASK_ON RT_REFLECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=17353 outsize=1771 kw=WATER_DISPLACEMENT_ON EDGEBLEND_ON REFRACTION_MASK_ON RT_REFLECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=17148 outsize=2553 kw=WATER_DISPLACEMENT_ON EDGEBLEND_ON RT_REFLECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=17148 outsize=1726 kw=WATER_DISPLACEMENT_ON EDGEBLEND_ON RT_REFLECTION_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=17095 outsize=2553 kw=WATER_DISPLACEMENT_ON EDGEBLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=17095 outsize=1195 kw=WATER_DISPLACEMENT_ON EDGEBLEND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=17043 outsize=2553 kw=WATER_DISPLACEMENT_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=17043 outsize=1012 kw=WATER_DISPLACEMENT_ON ok=1
+Cmd: preprocess
+  insize=1576 outsize=991 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=867 outsize=635 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=867 outsize=84 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=834 outsize=635 kw= ok=1
+Cmd: preprocess
+  insize=1500 outsize=667 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1135 outsize=547 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1135 outsize=333 kw= ok=1
