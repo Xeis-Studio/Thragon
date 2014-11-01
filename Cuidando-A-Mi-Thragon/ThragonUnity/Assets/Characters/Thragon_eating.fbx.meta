@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 5abb7654867e44e5783fc0565c005065
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ikHandle1
+    100002: joint1
+    100004: joint2
+    100006: joint3
+    100008: joint4
+    100010: joint5
+    100012: joint6
+    100014: leftEye
+    100016: leftEyeParent
+    100018: leftTooth
+    100020: leftToothParent
+    100022: nurbsCircle1
+    100024: rightEye
+    100026: rightEyeParent
+    100028: rightTooth
+    100030: rightToothParent
+    100032: Thragon
+    100034: Thragon 1
+    100036: Thragon1_Ctrl_ChestEndEffector
+    100038: Thragon1_Ctrl_ChestOriginEffector
+    100040: Thragon1_Ctrl_Head
+    100042: Thragon1_Ctrl_HeadEffector
+    100044: Thragon1_Ctrl_Hips
+    100046: Thragon1_Ctrl_HipsEffector
+    100048: Thragon1_Ctrl_LeftAnkleEffector
+    100050: Thragon1_Ctrl_LeftArm
+    100052: Thragon1_Ctrl_LeftElbowEffector
+    100054: Thragon1_Ctrl_LeftFoot
+    100056: Thragon1_Ctrl_LeftFootEffector
+    100058: Thragon1_Ctrl_LeftForeArm
+    100060: Thragon1_Ctrl_LeftHand
+    100062: Thragon1_Ctrl_LeftHandMiddle1
+    100064: Thragon1_Ctrl_LeftHandMiddle2
+    100066: Thragon1_Ctrl_LeftHandMiddle3
+    100068: Thragon1_Ctrl_LeftHandMiddleEffector
+    100070: Thragon1_Ctrl_LeftHandThumb1
+    100072: Thragon1_Ctrl_LeftHandThumb2
+    100074: Thragon1_Ctrl_LeftHandThumb3
+    100076: Thragon1_Ctrl_LeftHandThumbEffector
+    100078: Thragon1_Ctrl_LeftHipEffector
+    100080: Thragon1_Ctrl_LeftKneeEffector
+    100082: Thragon1_Ctrl_LeftLeg
+    100084: Thragon1_Ctrl_LeftShoulder
+    100086: Thragon1_Ctrl_LeftShoulderEffector
+    100088: Thragon1_Ctrl_LeftToeBase
+    100090: Thragon1_Ctrl_LeftUpLeg
+    100092: Thragon1_Ctrl_LeftWristEffector
+    100094: Thragon1_Ctrl_Neck
+    100096: Thragon1_Ctrl_Reference
+    100098: Thragon1_Ctrl_RightAnkleEffector
+    100100: Thragon1_Ctrl_RightArm
+    100102: Thragon1_Ctrl_RightElbowEffector
+    100104: Thragon1_Ctrl_RightFoot
+    100106: Thragon1_Ctrl_RightFootEffector
+    100108: Thragon1_Ctrl_RightForeArm
+    100110: Thragon1_Ctrl_RightHand
+    100112: Thragon1_Ctrl_RightHandMiddle1
+    100114: Thragon1_Ctrl_RightHandMiddle2
+    100116: Thragon1_Ctrl_RightHandMiddle3
+    100118: Thragon1_Ctrl_RightHandMiddleEffector
+    100120: Thragon1_Ctrl_RightHandThumb1
+    100122: Thragon1_Ctrl_RightHandThumb2
+    100124: Thragon1_Ctrl_RightHandThumb3
+    100126: Thragon1_Ctrl_RightHandThumbEffector
+    100128: Thragon1_Ctrl_RightHipEffector
+    100130: Thragon1_Ctrl_RightKneeEffector
+    100132: Thragon1_Ctrl_RightLeg
+    100134: Thragon1_Ctrl_RightShoulder
+    100136: Thragon1_Ctrl_RightShoulderEffector
+    100138: Thragon1_Ctrl_RightToeBase
+    100140: Thragon1_Ctrl_RightUpLeg
+    100142: Thragon1_Ctrl_RightWristEffector
+    100144: Thragon1_Ctrl_Spine
+    100146: Thragon1_Ctrl_Spine1
+    100148: Thragon1_Ctrl_Spine2
+    100150: Thragon1_Head
+    100152: Thragon1_Hips
+    100154: Thragon1_LeftArm
+    100156: Thragon1_LeftFoot
+    100158: Thragon1_LeftForeArm
+    100160: Thragon1_LeftHand
+    100162: Thragon1_LeftHandMiddle1
+    100164: Thragon1_LeftHandMiddle2
+    100166: Thragon1_LeftHandMiddle3
+    100168: Thragon1_LeftHandThumb1
+    100170: Thragon1_LeftHandThumb2
+    100172: Thragon1_LeftHandThumb3
+    100174: Thragon1_LeftLeg
+    100176: Thragon1_LeftShoulder
+    100178: Thragon1_LeftToeBase
+    100180: Thragon1_LeftUpLeg
+    100182: Thragon1_Neck
+    100184: Thragon1_Reference
+    100186: Thragon1_RightArm
+    100188: Thragon1_RightFoot
+    100190: Thragon1_RightForeArm
+    100192: Thragon1_RightHand
+    100194: Thragon1_RightHandMiddle1
+    100196: Thragon1_RightHandMiddle2
+    100198: Thragon1_RightHandMiddle3
+    100200: Thragon1_RightHandThumb1
+    100202: Thragon1_RightHandThumb2
+    100204: Thragon1_RightHandThumb3
+    100206: Thragon1_RightLeg
+    100208: Thragon1_RightShoulder
+    100210: Thragon1_RightToeBase
+    100212: Thragon1_RightUpLeg
+    100214: Thragon1_Spine
+    100216: Thragon1_Spine1
+    100218: Thragon1_Spine2
+    100220: //RootNode
+    400000: ikHandle1
+    400002: joint1
+    400004: joint2
+    400006: joint3
+    400008: joint4
+    400010: joint5
+    400012: joint6
+    400014: leftEye
+    400016: leftEyeParent
+    400018: leftTooth
+    400020: leftToothParent
+    400022: nurbsCircle1
+    400024: rightEye
+    400026: rightEyeParent
+    400028: rightTooth
+    400030: rightToothParent
+    400032: Thragon
+    400034: Thragon 1
+    400036: Thragon1_Ctrl_ChestEndEffector
+    400038: Thragon1_Ctrl_ChestOriginEffector
+    400040: Thragon1_Ctrl_Head
+    400042: Thragon1_Ctrl_HeadEffector
+    400044: Thragon1_Ctrl_Hips
+    400046: Thragon1_Ctrl_HipsEffector
+    400048: Thragon1_Ctrl_LeftAnkleEffector
+    400050: Thragon1_Ctrl_LeftArm
+    400052: Thragon1_Ctrl_LeftElbowEffector
+    400054: Thragon1_Ctrl_LeftFoot
+    400056: Thragon1_Ctrl_LeftFootEffector
+    400058: Thragon1_Ctrl_LeftForeArm
+    400060: Thragon1_Ctrl_LeftHand
+    400062: Thragon1_Ctrl_LeftHandMiddle1
+    400064: Thragon1_Ctrl_LeftHandMiddle2
+    400066: Thragon1_Ctrl_LeftHandMiddle3
+    400068: Thragon1_Ctrl_LeftHandMiddleEffector
+    400070: Thragon1_Ctrl_LeftHandThumb1
+    400072: Thragon1_Ctrl_LeftHandThumb2
+    400074: Thragon1_Ctrl_LeftHandThumb3
+    400076: Thragon1_Ctrl_LeftHandThumbEffector
+    400078: Thragon1_Ctrl_LeftHipEffector
+    400080: Thragon1_Ctrl_LeftKneeEffector
+    400082: Thragon1_Ctrl_LeftLeg
+    400084: Thragon1_Ctrl_LeftShoulder
+    400086: Thragon1_Ctrl_LeftShoulderEffector
+    400088: Thragon1_Ctrl_LeftToeBase
+    400090: Thragon1_Ctrl_LeftUpLeg
+    400092: Thragon1_Ctrl_LeftWristEffector
+    400094: Thragon1_Ctrl_Neck
+    400096: Thragon1_Ctrl_Reference
+    400098: Thragon1_Ctrl_RightAnkleEffector
+    400100: Thragon1_Ctrl_RightArm
+    400102: Thragon1_Ctrl_RightElbowEffector
+    400104: Thragon1_Ctrl_RightFoot
+    400106: Thragon1_Ctrl_RightFootEffector
+    400108: Thragon1_Ctrl_RightForeArm
+    400110: Thragon1_Ctrl_RightHand
+    400112: Thragon1_Ctrl_RightHandMiddle1
+    400114: Thragon1_Ctrl_RightHandMiddle2
+    400116: Thragon1_Ctrl_RightHandMiddle3
+    400118: Thragon1_Ctrl_RightHandMiddleEffector
+    400120: Thragon1_Ctrl_RightHandThumb1
+    400122: Thragon1_Ctrl_RightHandThumb2
+    400124: Thragon1_Ctrl_RightHandThumb3
+    400126: Thragon1_Ctrl_RightHandThumbEffector
+    400128: Thragon1_Ctrl_RightHipEffector
+    400130: Thragon1_Ctrl_RightKneeEffector
+    400132: Thragon1_Ctrl_RightLeg
+    400134: Thragon1_Ctrl_RightShoulder
+    400136: Thragon1_Ctrl_RightShoulderEffector
+    400138: Thragon1_Ctrl_RightToeBase
+    400140: Thragon1_Ctrl_RightUpLeg
+    400142: Thragon1_Ctrl_RightWristEffector
+    400144: Thragon1_Ctrl_Spine
+    400146: Thragon1_Ctrl_Spine1
+    400148: Thragon1_Ctrl_Spine2
+    400150: Thragon1_Head
+    400152: Thragon1_Hips
+    400154: Thragon1_LeftArm
+    400156: Thragon1_LeftFoot
+    400158: Thragon1_LeftForeArm
+    400160: Thragon1_LeftHand
+    400162: Thragon1_LeftHandMiddle1
+    400164: Thragon1_LeftHandMiddle2
+    400166: Thragon1_LeftHandMiddle3
+    400168: Thragon1_LeftHandThumb1
+    400170: Thragon1_LeftHandThumb2
+    400172: Thragon1_LeftHandThumb3
+    400174: Thragon1_LeftLeg
+    400176: Thragon1_LeftShoulder
+    400178: Thragon1_LeftToeBase
+    400180: Thragon1_LeftUpLeg
+    400182: Thragon1_Neck
+    400184: Thragon1_Reference
+    400186: Thragon1_RightArm
+    400188: Thragon1_RightFoot
+    400190: Thragon1_RightForeArm
+    400192: Thragon1_RightHand
+    400194: Thragon1_RightHandMiddle1
+    400196: Thragon1_RightHandMiddle2
+    400198: Thragon1_RightHandMiddle3
+    400200: Thragon1_RightHandThumb1
+    400202: Thragon1_RightHandThumb2
+    400204: Thragon1_RightHandThumb3
+    400206: Thragon1_RightLeg
+    400208: Thragon1_RightShoulder
+    400210: Thragon1_RightToeBase
+    400212: Thragon1_RightUpLeg
+    400214: Thragon1_Spine
+    400216: Thragon1_Spine1
+    400218: Thragon1_Spine2
+    400220: //RootNode
+    2300000: leftEye
+    2300002: leftTooth
+    2300004: rightEye
+    2300006: rightTooth
+    3300000: leftEye
+    3300002: leftTooth
+    3300004: rightEye
+    3300006: rightTooth
+    4300000: Thragon
+    4300002: rightEye
+    4300004: leftEye
+    4300006: rightTooth
+    4300008: leftTooth
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Thragon 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Thragon
+        weight: 1
+      - path: Thragon/leftEyeParent
+        weight: 1
+      - path: Thragon/leftEyeParent/leftEye
+        weight: 1
+      - path: Thragon/leftToothParent
+        weight: 1
+      - path: Thragon/leftToothParent/leftTooth
+        weight: 1
+      - path: Thragon/rightEyeParent
+        weight: 1
+      - path: Thragon/rightEyeParent/rightEye
+        weight: 1
+      - path: Thragon/rightToothParent
+        weight: 1
+      - path: Thragon/rightToothParent/rightTooth
+        weight: 1
+      - path: Thragon/Thragon 1
+        weight: 1
+      - path: Thragon1_Ctrl_Reference
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_ChestEndEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_HeadEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_LeftUpLeg
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_LeftUpLeg/Thragon1_Ctrl_LeftLeg
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_LeftUpLeg/Thragon1_Ctrl_LeftLeg/Thragon1_Ctrl_LeftFoot
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_LeftUpLeg/Thragon1_Ctrl_LeftLeg/Thragon1_Ctrl_LeftFoot/Thragon1_Ctrl_LeftToeBase
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_RightUpLeg
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_RightUpLeg/Thragon1_Ctrl_RightLeg
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_RightUpLeg/Thragon1_Ctrl_RightLeg/Thragon1_Ctrl_RightFoot
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_RightUpLeg/Thragon1_Ctrl_RightLeg/Thragon1_Ctrl_RightFoot/Thragon1_Ctrl_RightToeBase
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder/Thragon1_Ctrl_LeftArm
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder/Thragon1_Ctrl_LeftArm/Thragon1_Ctrl_LeftForeArm
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder/Thragon1_Ctrl_LeftArm/Thragon1_Ctrl_LeftForeArm/Thragon1_Ctrl_LeftHand
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder/Thragon1_Ctrl_LeftArm/Thragon1_Ctrl_LeftForeArm/Thragon1_Ctrl_LeftHand/Thragon1_Ctrl_LeftHandMiddle1
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder/Thragon1_Ctrl_LeftArm/Thragon1_Ctrl_LeftForeArm/Thragon1_Ctrl_LeftHand/Thragon1_Ctrl_LeftHandMiddle1/Thragon1_Ctrl_LeftHandMiddle2
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder/Thragon1_Ctrl_LeftArm/Thragon1_Ctrl_LeftForeArm/Thragon1_Ctrl_LeftHand/Thragon1_Ctrl_LeftHandMiddle1/Thragon1_Ctrl_LeftHandMiddle2/Thragon1_Ctrl_LeftHandMiddle3
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder/Thragon1_Ctrl_LeftArm/Thragon1_Ctrl_LeftForeArm/Thragon1_Ctrl_LeftHand/Thragon1_Ctrl_LeftHandThumb1
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder/Thragon1_Ctrl_LeftArm/Thragon1_Ctrl_LeftForeArm/Thragon1_Ctrl_LeftHand/Thragon1_Ctrl_LeftHandThumb1/Thragon1_Ctrl_LeftHandThumb2
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_LeftShoulder/Thragon1_Ctrl_LeftArm/Thragon1_Ctrl_LeftForeArm/Thragon1_Ctrl_LeftHand/Thragon1_Ctrl_LeftHandThumb1/Thragon1_Ctrl_LeftHandThumb2/Thragon1_Ctrl_LeftHandThumb3
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_Neck
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_Neck/Thragon1_Ctrl_Head
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder/Thragon1_Ctrl_RightArm
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder/Thragon1_Ctrl_RightArm/Thragon1_Ctrl_RightForeArm
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder/Thragon1_Ctrl_RightArm/Thragon1_Ctrl_RightForeArm/Thragon1_Ctrl_RightHand
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder/Thragon1_Ctrl_RightArm/Thragon1_Ctrl_RightForeArm/Thragon1_Ctrl_RightHand/Thragon1_Ctrl_RightHandMiddle1
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder/Thragon1_Ctrl_RightArm/Thragon1_Ctrl_RightForeArm/Thragon1_Ctrl_RightHand/Thragon1_Ctrl_RightHandMiddle1/Thragon1_Ctrl_RightHandMiddle2
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder/Thragon1_Ctrl_RightArm/Thragon1_Ctrl_RightForeArm/Thragon1_Ctrl_RightHand/Thragon1_Ctrl_RightHandMiddle1/Thragon1_Ctrl_RightHandMiddle2/Thragon1_Ctrl_RightHandMiddle3
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder/Thragon1_Ctrl_RightArm/Thragon1_Ctrl_RightForeArm/Thragon1_Ctrl_RightHand/Thragon1_Ctrl_RightHandThumb1
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder/Thragon1_Ctrl_RightArm/Thragon1_Ctrl_RightForeArm/Thragon1_Ctrl_RightHand/Thragon1_Ctrl_RightHandThumb1/Thragon1_Ctrl_RightHandThumb2
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_Hips/Thragon1_Ctrl_Spine/Thragon1_Ctrl_Spine1/Thragon1_Ctrl_Spine2/Thragon1_Ctrl_RightShoulder/Thragon1_Ctrl_RightArm/Thragon1_Ctrl_RightForeArm/Thragon1_Ctrl_RightHand/Thragon1_Ctrl_RightHandThumb1/Thragon1_Ctrl_RightHandThumb2/Thragon1_Ctrl_RightHandThumb3
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_HipsEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_LeftFootEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_LeftHandMiddleEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_LeftHandThumbEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_LeftHipEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_LeftWristEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_RightElbowEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_RightFootEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_RightHandMiddleEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_RightHandThumbEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_RightHipEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_RightKneeEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: Thragon1_Ctrl_Reference/Thragon1_Ctrl_RightWristEffector
+        weight: 1
+      - path: Thragon1_Reference
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/joint1
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/joint1/joint2
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/joint1/joint2/joint3
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_LeftUpLeg
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_LeftUpLeg/Thragon1_LeftLeg
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_LeftUpLeg/Thragon1_LeftLeg/Thragon1_LeftFoot
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_LeftUpLeg/Thragon1_LeftLeg/Thragon1_LeftFoot/Thragon1_LeftToeBase
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_RightUpLeg
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_RightUpLeg/Thragon1_RightLeg
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_RightUpLeg/Thragon1_RightLeg/Thragon1_RightFoot
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_RightUpLeg/Thragon1_RightLeg/Thragon1_RightFoot/Thragon1_RightToeBase
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder/Thragon1_LeftArm
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder/Thragon1_LeftArm/Thragon1_LeftForeArm
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder/Thragon1_LeftArm/Thragon1_LeftForeArm/Thragon1_LeftHand
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder/Thragon1_LeftArm/Thragon1_LeftForeArm/Thragon1_LeftHand/Thragon1_LeftHandMiddle1
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder/Thragon1_LeftArm/Thragon1_LeftForeArm/Thragon1_LeftHand/Thragon1_LeftHandMiddle1/Thragon1_LeftHandMiddle2
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder/Thragon1_LeftArm/Thragon1_LeftForeArm/Thragon1_LeftHand/Thragon1_LeftHandMiddle1/Thragon1_LeftHandMiddle2/Thragon1_LeftHandMiddle3
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder/Thragon1_LeftArm/Thragon1_LeftForeArm/Thragon1_LeftHand/Thragon1_LeftHandThumb1
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder/Thragon1_LeftArm/Thragon1_LeftForeArm/Thragon1_LeftHand/Thragon1_LeftHandThumb1/Thragon1_LeftHandThumb2
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_LeftShoulder/Thragon1_LeftArm/Thragon1_LeftForeArm/Thragon1_LeftHand/Thragon1_LeftHandThumb1/Thragon1_LeftHandThumb2/Thragon1_LeftHandThumb3
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_Neck
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_Neck/Thragon1_Head
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder/Thragon1_RightArm
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder/Thragon1_RightArm/Thragon1_RightForeArm
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder/Thragon1_RightArm/Thragon1_RightForeArm/Thragon1_RightHand
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder/Thragon1_RightArm/Thragon1_RightForeArm/Thragon1_RightHand/Thragon1_RightHandMiddle1
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder/Thragon1_RightArm/Thragon1_RightForeArm/Thragon1_RightHand/Thragon1_RightHandMiddle1/Thragon1_RightHandMiddle2
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder/Thragon1_RightArm/Thragon1_RightForeArm/Thragon1_RightHand/Thragon1_RightHandMiddle1/Thragon1_RightHandMiddle2/Thragon1_RightHandMiddle3
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder/Thragon1_RightArm/Thragon1_RightForeArm/Thragon1_RightHand/Thragon1_RightHandThumb1
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder/Thragon1_RightArm/Thragon1_RightForeArm/Thragon1_RightHand/Thragon1_RightHandThumb1/Thragon1_RightHandThumb2
+        weight: 1
+      - path: Thragon1_Reference/Thragon1_Hips/Thragon1_Spine/Thragon1_Spine1/Thragon1_Spine2/Thragon1_RightShoulder/Thragon1_RightArm/Thragon1_RightForeArm/Thragon1_RightHand/Thragon1_RightHandThumb1/Thragon1_RightHandThumb2/Thragon1_RightHandThumb3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
