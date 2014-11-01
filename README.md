@@ -2,6 +2,8 @@ Thragon
 =======
 Este repositorio integra la propuesta de Xeis Studio (Pix-T Art S.A. de C.V.) para el concurso de Reto Consume Sano - PROFECO con una licencia Apache 2.0. 
 
+Versión web del proyecto: http://xeis-studio.com/Thragon/
+
 Nuestra solución consta de un videojuego, con el objeto de que los niños a través de una mascota virtual entiendan los beneficios de una buena alimentación y la implementación de buenos hábitos como hacer ejercicio y tomar agua. Se desarrollo para UNITY y esta versión esta optimizada para dispositivos Android.
 
 Las opciones del juego implementadas para el demo son:
