@@ -31,3 +31,7 @@ NOTAS:
 3. Crear escenarios interactivos donde los jugadores podrán extender su diversión. Ejemplo de ellos sería: Espantar murciélagos, incendiar matorrales, echarse un clavado en la lava, etc.
 4. Aumento y disminución de talla del personaje. En la versión final ademas de indicar el peso del Thragon se va  a notar en el personaje haciéndolo más delgado o gordito según el caso.
 5. Vestuario del personaje, se integrará un guardarropa en la casa donde el personaje podrá elegir alguna estilo de vestir.
+
+IMPORTANTE
+
+Esta es una versión DEMO y no ha recibido pruebas exhaustivas como versión final, por lo que puede presentar alguna falla.
